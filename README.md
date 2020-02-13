@@ -1,4 +1,4 @@
-# Ionic-3
+# Ionic-4
 Student Assistance Chatbot Using Artificial Intelligence
 Description: Artificial intelligence will solve the hassle of students for time management as it's vital for students to manage their time. This mobile application allows the student to add, view, edit, and delete event in the calendar, access features like geolocation, reverse location, geofences, and Wi-Fi fingerprinting. It will enhance the productivity of the students. It will make it easier for the student to download multiple apps for different features we introduced in our application. The programming language used are ionic 4 and typescript. The software used to integrated AI is dialog flow. We tested this application on the android phone, but it can be tested on different platforms. In future, this application can be enhanced by adding features like a scanner, access course material, meeting schedules, attachments, and automatic call. 
 Demo: https://youtu.be/BSuYIn6LX2U
